@@ -11,6 +11,6 @@
 
 - ⚡ Interesting fact **I'm co-founder of a community called codando.community**
 ---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosoliveira20&show_icons=true&locale=en" alt="marcosoliveira20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosoliveira20&" alt="marcosoliveira20" /></p>
