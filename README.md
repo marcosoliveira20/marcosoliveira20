@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Marcos Santos</h1>
-<h3>A Web Developer</h3>
+<h3>Solutions Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosoliveira20&label=Profile%20views&color=0e75b6&style=flat" alt="marcosoliveira20" /> </p>
 
-- 🌱 I’m currently learning **.NET, AWS**
+- 🌱 I’m currently learning **AZURE, AWS**
 
-- 💬 Ask me about **Java, Spring and Javascript**
+- 💬 Ask me about **Java, Spring and AWS**
 
 - 📫 How to reach me **marcos.oliveira129@hotmail.com**
 
